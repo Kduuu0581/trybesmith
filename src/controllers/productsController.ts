@@ -7,6 +7,12 @@ async function createProduct(req: Request, res: Response) {
   res.status(201).json(newProduct);
 }
 
+async function getProduct(req: Request, res: Response) {
+  const products = await productsService.getProduct();
+  res.status(200).json(products);
+}
+
 export default {
   createProduct,
+  getProduct,
 };
