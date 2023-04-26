@@ -30,3 +30,28 @@ Projeto realizado durante módulo de Back-end do curso de desenvolvimento web da
 
 </details>
 </div>
+
+<div align='rigth'>
+  <details>
+  <summary><strong>:memo: Tecnologias utilizadas</strong></summary><br />
+  
+  - `Node.js`
+  - `TypeScript`
+  - `JWT`
+  - `POO`
+  - `Arquitetura MSC`
+  - `docker`
+  - `docker-compose`
+  - `MySql`
+  - `Express`;
+
+</details>
+<details>
+  <summary><strong>:memo: Habilidades</strong></summary><br />
+
+  -  Declarar variáveis e funções com tipagens Typescript;
+  - Construir uma API Node Express utilizando o Typescript;
+
+</details>
+</div>
+
