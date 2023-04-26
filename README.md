@@ -4,7 +4,7 @@
 <img width="140px" alt="trybe wallet logo" src="https://user-images.githubusercontent.com/100851855/229934581-141d9e09-9de5-4b15-8f5c-17d66340a4f6.png" />
 </div>
 
-<div align='center'>
+<div align='rigth'>
   # Projeto TrybeSmith API
 
 Projeto realizado durante módulo de Back-end do curso de desenvolvimento web da Trybe.
