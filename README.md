@@ -28,9 +28,5 @@ Projeto realizado durante módulo de Back-end do curso de desenvolvimento web da
   - `MySql`
   - `Express`;
 
-  Diagrama ER e Entidades:
-
-  ![DER](./public/diagram-der.png)
-
 </details>
 </div>
