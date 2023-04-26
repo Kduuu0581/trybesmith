@@ -5,7 +5,7 @@
 </div>
 
 <div align='rigth'>
-  # Projeto TrybeSmith API
+Projeto TrybeSmith API
 
 Projeto realizado durante módulo de Back-end do curso de desenvolvimento web da Trybe.
 
